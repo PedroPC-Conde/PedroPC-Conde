@@ -1,16 +1,24 @@
-## Hi there 👋
+## 
+Olá. me chamo Pedro! Sou estudante de Desenvolvimento de Sistemas e utilizo este espaço para registrar minha jornada de aprendizado, compartilhar projetos e desenvolver minhas habilidades na área da tecnologia.
 
-<!--
-**PedroPC-Conde/PedroPC-Conde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Objetivos
 
-Here are some ideas to get you started:
+- Aprimorar minhas habilidades em desenvolvimento de software.
+- Desenvolver projetos que contribuam para meu crescimento profissional.
+- Aprender e aplicar boas práticas de programação.
+- Explorar diferentes linguagens e tecnologias.
+- Construir um portfólio sólido no GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O que você encontrará neste perfil
+
+- Projetos acadêmicos e pessoais.
+- Exercícios e desafios de programação.
+- Estudos sobre novas tecnologias.
+- Experimentos e protótipos.
+
+## 💡 Características
+
+- Proativo e comprometido com o aprendizado contínuo.
+- Curioso e sempre disposto a aprender.
+- Organizado e atento à qualidade do código.
+- Aberto a feedbacks e ao trabalho colaborativo.
