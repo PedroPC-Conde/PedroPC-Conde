@@ -23,4 +23,4 @@ Olá. me chamo Pedro! Sou estudante de Desenvolvimento de Sistemas e utilizo est
 - Organizado e atento à qualidade do código.
 - Aberto a feedbacks e ao trabalho colaborativo.
 
-## [Email](pedropauloc.conde@gmail.com)
+# [Email](pedropauloc.conde@gmail.com)
